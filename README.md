@@ -1,2 +1,2 @@
 # Goodreads
-Books Reviews
+Reviews on articles, books
