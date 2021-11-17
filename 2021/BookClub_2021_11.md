@@ -55,13 +55,24 @@
 
 > Chp 04 05 06 
 
-- ㄹ
+- Expression vs Statement in JavaScript : [ref](https://2ssue.github.io/common_questions_for_Web_Developer/docs/Javascript/expression_statement.html)
 
 
 
 ### 2. Kafka
 
-> 활용
+> 카프카의 역사
 
-- f
+- SPOF (Single Point of Failure) : [ref](https://datalibrary.tistory.com/207)
+- Data Lake : [definition](https://aws.amazon.com/ko/big-data/datalakes-and-analytics/what-is-a-data-lake/)
+- [4 big data architectures, Data Streaming, Lambda architecture, Kappa architecture, and Unifield architecture](https://medium.com/dataprophet/4-big-data-architectures-data-streaming-lambda-architecture-kappa-architecture-and-unifield-d9bcbf711eb9#:~:text=The%20Kappa%20architecture%20is%20optimized,at%20the%20data%20lake%20level.)
+- [From Lambda to Kappa: evolution of Big Data architectures](https://en.paradigmadigital.com/dev/from-lambda-to-kappa-evolution-of-big-data-architectures/)
+- [KSQLDB](https://www.confluent.io/product/ksql/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.kafka_mt.xct_rgn.apac_lng.eng_dv.all_con.kafka-ksql&utm_term=ksql&creative=&device=c&placement=&gclid=Cj0KCQiAys2MBhDOARIsAFf1D1fg25vlrJGri0uUFja92by_3QI-FifT34yMoGfY-LB8EIqsekZZrs0aAvDqEALw_wcB) : kafka 스트림즈를 추상화 한 DB
+- [Kafka stream과 KSQL 소개 및 설명, 차이점](https://blog.voidmainvoid.net/266) : 클라이언트가 speed layer를 바로바로 사용할 수 있게 실시간으로
+- [빅데이터 처리와 저장의 핵심 기술, 하둡과 NoSQL](https://flipdata.tistory.com/74)
+- [Kafka Summit 2020: Event Streaming Everywhere was hosted virtually](https://www.kafka-summit.org/2020)
+
+
+
+
 
