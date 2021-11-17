@@ -61,7 +61,7 @@
 
 ### 2. Kafka
 
-> 카프카의 역사
+> 카프카의 발전 역사
 
 - SPOF (Single Point of Failure) : [ref](https://datalibrary.tistory.com/207)
 - Data Lake : [definition](https://aws.amazon.com/ko/big-data/datalakes-and-analytics/what-is-a-data-lake/)
