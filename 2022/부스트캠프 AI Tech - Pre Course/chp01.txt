@@ -1,0 +1,13 @@
+# Chp 01
+> Deep Learning - Neural Network 형태
+
+## Model
+- 같은 class가 주어지더라도 model에 따라 결과가 달라진다
+- AlexNet , GoogLeNet
+
+
+## Loss
+- 
+
+## Optimization Algorithm
+- 
